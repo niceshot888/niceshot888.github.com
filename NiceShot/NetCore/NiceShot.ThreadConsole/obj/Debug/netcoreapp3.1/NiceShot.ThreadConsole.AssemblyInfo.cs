@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NiceShot.ThreadConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86567278310af601d00b781f1e584d96063e1c71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0c103405a5ff6c0aa85f8a8fb2fc9b1cd41bb44")]
 [assembly: System.Reflection.AssemblyProductAttribute("NiceShot.ThreadConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NiceShot.ThreadConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
