@@ -1,0 +1,7 @@
+如果不希望网站在后台瞎折腾，可以直接收回权限：
+打开 Chrome，在地址栏输入并回车：chrome://settings/content/camera
+将默认行为修改为 “不允许网站使用您的摄像头”。
+这样一来，除非你主动允许，否则任何网页都无法唤醒这个 Video Capture Service。
+
+如果你想测试一下影响，可以在 Chrome 地址栏输入 chrome://settings/system，
+找到 “提示：在可用时使用图形加速”，开关切换后点击 “重新启动” 浏览器即可生效。
